@@ -1,5 +1,5 @@
 # BlueStamp Tabletop Robot
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
+Hello, my name is Selina and for BlueStamp, my project is the tabletop robot. This robot can detect obstacles and can follow or avoid the object. This robot car can also line-track, following a specific path drawn on the floor. I seek to modify this robot to have the ability to allow wireless charging and to perform certain useful functions such as picking up certain objects.
 
 | **Engineer** | **School** | **Mechanical Engineering** | **Grade** |
 |:--:|:--:|:--:|:--:|
