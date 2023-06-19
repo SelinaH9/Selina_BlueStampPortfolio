@@ -31,11 +31,7 @@ For your second milestone, explain what you've worked on since your previous mil
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # First Milestone
-For my first milestone, I assembled my robot kit to get a sense of how it functioned and observed how the robot works and why. I followed the list of instructions that went with the kit and built it. Overall, building the kit was successful but there were a few problems that I encountered.
-- I was not able to code the Arduino due to the port my computer had which was not compatible and I did not have an adapter.
-- I have several modification ideas but can not decide which is the best for this robot.
-
-For my next milestone, I look to research more about what I can modify and what specific functions I want the robot to do exactly.
+For my first milestone, I was supposed to code the Arduino before building the robot. However, the USB was not compatible with my computer as I did not have an adapter. Since coding was not a choice for me, I decided to build the robot before I receive the adapter. I opened my robot kit and looked at each individual part and its functions. After looking up their key functions and how they work, I assembled the robot to see all of the functions working together and the wiring going to their corresponding places. There are different colored wires and the order of how it is plugged in played an important role in the energy flow which for example, determined the direction the motor spun. When the wires are flipped, the motor spins in the opposite direction than before. Overall, the hardest part of the kit was not being confused about the orientation of the black and red wires, but building the kit was successful. For my next milestone, I want to start coding the Arduino and research some modifications I can work with on the robot car.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BDyy4Iachg8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
