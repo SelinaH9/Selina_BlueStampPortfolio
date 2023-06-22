@@ -45,11 +45,32 @@ Here's where you'll put your code. The syntax below places it into a block of co
 void setup() {
   // put your setup code here, to run once:
   Serial.begin(9600);
-  Serial.println("Hello World!");
+  Serial.println("Hello World!")
+    Application_FunctionSet.ApplicationFunctionSet_Init();
+  wdt_enable(WDTO_2S);;
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
+  //   wdt_reset();
+  Application_FunctionSet.ApplicationFunctionSet_SensorDataUpdate();
+  Application_FunctionSet.ApplicationFunctionSet_KeyCommand();
+  Application_FunctionSet.ApplicationFunctionSet_RGB();
+  Application_FunctionSet.ApplicationFunctionSet_Follow();
+  Application_FunctionSet.ApplicationFunctionSet_Obstacle();
+  Application_FunctionSet.ApplicationFunctionSet_Tracking();
+  Application_FunctionSet.ApplicationFunctionSet_Rocker();
+  Application_FunctionSet.ApplicationFunctionSet_Standby();
+  Application_FunctionSet.ApplicationFunctionSet_IRrecv();
+  Application_FunctionSet.ApplicationFunctionSet_SerialPortDataAnalysis();
+
+  Application_FunctionSet.CMD_ServoControl_xxx0();
+  Application_FunctionSet.CMD_MotorControl_xxx0();
+  Application_FunctionSet.CMD_CarControlTimeLimit_xxx0();
+  Application_FunctionSet.CMD_CarControlNoTimeLimit_xxx0();
+  Application_FunctionSet.CMD_MotorControlSpeed_xxx0();
+  Application_FunctionSet.CMD_LightingControlTimeLimit_xxx0();
+  Application_FunctionSet.CMD_LightingControlNoTimeLimit_xxx0();
+  Application_FunctionSet.CMD_ClearAllFunctions_xxx0();
 
 }
 ```
@@ -62,7 +83,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 |:--:|:--:|:--:|:--:|
 | Elegoo Smart Robot Car Kit V4.0 | This is used for to build the robot car | $Price | <a href="https://www.amazon.com/ELEGOO-Tracking-Ultrasonic-Intelligent-Educational/dp/B07KPZ8RSZ/ref=sr_1_1_sspa?crid=3464RQUK2O87S&keywords=elegoo+smart+robot+car+kit+v4.0&qid=1687461310&sprefix=elegoo+smart+ro%2Caps%2C158&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1/"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Wireless Spy Camera | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Wireless Spy Camera | This camera allows the person to view the robot no matter where they are | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 |:--:|:--:|:--:|:--:|
 | LED Lights | What the item is used for | $4.99 | <a href="https://www.amazon.com/MCIGICM-Circuit-Assorted-Science-Experiment/dp/B07PG84V17/ref=sr_1_3?crid=P23LQ60BH549&keywords=led+lights+for+arduino&qid=1687461479&sprefix=led+lights+for+arduino%2Caps%2C119&sr=8-3/"> Link </a> |
 |:--:|:--:|:--:|:--:|
