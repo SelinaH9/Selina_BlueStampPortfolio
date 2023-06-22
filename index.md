@@ -36,9 +36,9 @@ For my first milestone, I was supposed to code the Arduino before building the r
 
 # Schematics 
 <img width="780" alt="Screenshot 2023-06-22 at 3 20 42 PM" src="https://github.com/SelinaH9/Selina_BlueStampPortfolio/assets/136386424/25eef347-6a20-4fba-ab08-af7db9c916d2">
-<img width="790" alt="Screenshot 2023-06-22 at 3 21 11 PM" src="https://github.com/SelinaH9
+
 <img width="791" alt="Screenshot 2023-06-22 at 3 21 42 PM" src="https://github.com/SelinaH9/Selina_BlueStampPortfolio/assets/136386424/2593bd66-9140-4b58-bf77-6dcaa6df7ec2">
-/Selina_BlueStampPortfolio/assets/136386424/cc5a66c4-823f-4c0f-92e3-5b42aefad3f9">
+
 <img width="789" alt="Screenshot 2023-06-22 at 3 22 31 PM" src="https://github.com/SelinaH9/Selina_BlueStampPortfolio/assets/136386424/9fadb837-15df-4da1-abb5-f374eaf220a6">
 
 
