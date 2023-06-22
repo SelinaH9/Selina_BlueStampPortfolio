@@ -35,11 +35,13 @@ For my first milestone, I was supposed to code the Arduino before building the r
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BDyy4Iachg8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Schematics 
-<img width="780" alt="Screenshot 2023-06-22 at 3 20 42 PM" src="https://github.com/SelinaH9/Selina_BlueStampPortfolio/assets/136386424/25eef347-6a20-4fba-ab08-af7db9c916d2">
+<img width="780" alt="Screenshot 2023-06-22 at 3 24 42 PM" src="https://github.com/SelinaH9/Selina_BlueStampPortfolio/assets/136386424/ff2c752e-44f1-46a4-a728-bfe5fb6157ff">
 
-<img width="791" alt="Screenshot 2023-06-22 at 3 21 42 PM" src="https://github.com/SelinaH9/Selina_BlueStampPortfolio/assets/136386424/2593bd66-9140-4b58-bf77-6dcaa6df7ec2">
+<img width="791" alt="Screenshot 2023-06-22 at 3 25 21 PM" src="https://github.com/SelinaH9/Selina_BlueStampPortfolio/assets/136386424/ddfcee70-0083-4155-8f5a-b6b6236e21ce">
 
-<img width="789" alt="Screenshot 2023-06-22 at 3 22 31 PM" src="https://github.com/SelinaH9/Selina_BlueStampPortfolio/assets/136386424/9fadb837-15df-4da1-abb5-f374eaf220a6">
+<img width="791" alt="Screenshot 2023-06-22 at 3 35 21 PM" src="https://github.com/SelinaH9/Selina_BlueStampPortfolio/assets/136386424/e34416fe-bd5c-456a-bad5-353a54a96f86">
+
+<img width="791" alt="Screenshot 2023-06-22 at 3 35 48 PM" src="https://github.com/SelinaH9/Selina_BlueStampPortfolio/assets/136386424/44421956-5d00-444d-a0c6-7f3ef84e120a">
 
 
 # Code
