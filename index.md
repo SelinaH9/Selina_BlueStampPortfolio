@@ -91,9 +91,9 @@ Don't forget to place the link of where to buy each component inside the quotati
 |:--:|:--:|:--:|:--:|
 | Wireless Spy Camera | This camera allows the person to view the robot no matter where they are | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| LED Lights | What the item is used for | $4.99 | <a href="https://www.amazon.com/MCIGICM-Circuit-Assorted-Science-Experiment/dp/B07PG84V17/ref=sr_1_3?crid=P23LQ60BH549&keywords=led+lights+for+arduino&qid=1687461479&sprefix=led+lights+for+arduino%2Caps%2C119&sr=8-3/"> Link </a> |
+| LED Lights | The LED lights blink as the car moves in a specific direction | $4.99 | <a href="https://www.amazon.com/MCIGICM-Circuit-Assorted-Science-Experiment/dp/B07PG84V17/ref=sr_1_3?crid=P23LQ60BH549&keywords=led+lights+for+arduino&qid=1687461479&sprefix=led+lights+for+arduino%2Caps%2C119&sr=8-3/"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Motion Sensor Light | What the item is used for | $6.99 | <a href="https://www.amazon.com/Stemedu-HC-SR501-Infrared-Raspberry-ESP32-Cam/dp/B0897BMKR3/ref=sr_1_4?crid=1X7WLM791MEL9&keywords=motion+sensor+light+for+arduino&qid=1687461749&sprefix=mtion+sensor+light+for+arduino%2Caps%2C103&sr=8-4/"> Link </a> |
+| Motion Sensor Light | The motion sensor lights are attached to sense human movements using infrared light | $6.99 | <a href="https://www.amazon.com/Stemedu-HC-SR501-Infrared-Raspberry-ESP32-Cam/dp/B0897BMKR3/ref=sr_1_4?crid=1X7WLM791MEL9&keywords=motion+sensor+light+for+arduino&qid=1687461749&sprefix=mtion+sensor+light+for+arduino%2Caps%2C103&sr=8-4/"> Link </a> |
 |:--:|:--:|:--:|:--:|
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 |:--:|:--:|:--:|:--:|
