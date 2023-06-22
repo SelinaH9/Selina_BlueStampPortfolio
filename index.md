@@ -5,7 +5,6 @@ Hello, my name is Selina and for BlueStamp, my project is the tabletop robot. Th
 |:--:|:--:|:--:|:--:|
 | Selina H | North Gwinnett High School | Mechanical Engineering | Incoming Sophomore
 
-
 ![Headstone Image](IMG_8778.JPG)
   
 # Final Milestone
@@ -36,8 +35,12 @@ For my first milestone, I was supposed to code the Arduino before building the r
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BDyy4Iachg8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Schematics 
-[Headstone Image](Screenshot 2023-06-22 at 2.56.10 PM.png)
-Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resources to create professional schematic diagrams, though BSE recommends Tinkercad because it can be done easily and for free in the browser. 
+<img width="780" alt="Screenshot 2023-06-22 at 3 20 42 PM" src="https://github.com/SelinaH9/Selina_BlueStampPortfolio/assets/136386424/25eef347-6a20-4fba-ab08-af7db9c916d2">
+<img width="790" alt="Screenshot 2023-06-22 at 3 21 11 PM" src="https://github.com/SelinaH9
+<img width="791" alt="Screenshot 2023-06-22 at 3 21 42 PM" src="https://github.com/SelinaH9/Selina_BlueStampPortfolio/assets/136386424/2593bd66-9140-4b58-bf77-6dcaa6df7ec2">
+/Selina_BlueStampPortfolio/assets/136386424/cc5a66c4-823f-4c0f-92e3-5b42aefad3f9">
+<img width="789" alt="Screenshot 2023-06-22 at 3 22 31 PM" src="https://github.com/SelinaH9/Selina_BlueStampPortfolio/assets/136386424/9fadb837-15df-4da1-abb5-f374eaf220a6">
+
 
 # Code
 The link for the Arduino code cane be downloaded <a href="https://www.elegoo.com/pages/arduino-kits-support-files"> here </a>
