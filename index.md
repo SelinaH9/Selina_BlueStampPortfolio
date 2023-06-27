@@ -1,4 +1,4 @@
-# BlueStamp Tabletop Robot
+# Surveilance Robot
 Hello, my name is Selina and for BlueStamp, my project is the tabletop robot. This robot can detect obstacles and can follow or avoid the object. This robot car can also line-track, following a specific path drawn on the floor. I seek to modify this robot to have the ability to allow wireless charging and to perform certain useful functions such as picking up certain objects.
 
 | **Engineer** | **School** | **Mechanical Engineering** | **Grade** |
@@ -8,22 +8,14 @@ Hello, my name is Selina and for BlueStamp, my project is the tabletop robot. Th
 ![Headstone Image](IMG_8778.JPG)
   
 # Final Milestone
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What do you hope to learn in the future after everything you've learned at BSE
+For the final milestone, I reached the end of the finishing project. Instead of adding LED lights to the original Arduino. Instead, I added the lights to another Arduino that will function separately from the other one. The led lights will be activated by the motion sensor, which lights up the LED lights.
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Second Milestone
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
+For the second milestone, I started by downloading the files from the Elegoo website. There were multiple challenges I faced, such as where certain files won't work. I solved this by getting help from other people and it worked out. After downloading the files for the Arduino, I wanted to start on my modifications, trying to add a motion sensor light and LED on the Arduino. However, the Arduino board on my robot was covered by the expansion board, which covered all of the pins that the LED could be inserted. This took a day to solve, so I took a different path to learn the Arduino. Learning about Arduino was interesting as if it was like reaching the brain of the software. After that, I continued working on the modifications but changed the original plan. For my third milestone, I hope to figure out a way to put the led lights on the robot, showing my understanding of circuits and Arduino.
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
@@ -89,13 +81,13 @@ Don't forget to place the link of where to buy each component inside the quotati
 |:--:|:--:|:--:|:--:|
 | Elegoo Smart Robot Car Kit V4.0 | This is used for to build the robot car | $79.99 | <a href="https://www.amazon.com/ELEGOO-Tracking-Ultrasonic-Intelligent-Educational/dp/B07KPZ8RSZ/ref=sr_1_1_sspa?crid=3464RQUK2O87S&keywords=elegoo+smart+robot+car+kit+v4.0&qid=1687461310&sprefix=elegoo+smart+ro%2Caps%2C158&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1/"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Wireless Spy Camera | This camera allows the person to view the robot no matter where they are | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Wireless Spy Camera | This camera allows the person to view the robot no matter where they are | $29.99 | <a href="https://www.amazon.com/WAXOXIH-Security-Wireless-Smallest-Detection/dp/B0BVLXNY4V/ref=sr_1_1?crid=3UXJL392E812S&keywords=waxoxih+mini+spy+camera&qid=1687893035&sprefix=WAXO%2Caps%2C108&sr=8-1/"> Link </a> |
 |:--:|:--:|:--:|:--:|
 | LED Lights | The LED lights blink as the car moves in a specific direction | $4.99 | <a href="https://www.amazon.com/MCIGICM-Circuit-Assorted-Science-Experiment/dp/B07PG84V17/ref=sr_1_3?crid=P23LQ60BH549&keywords=led+lights+for+arduino&qid=1687461479&sprefix=led+lights+for+arduino%2Caps%2C119&sr=8-3/"> Link </a> |
 |:--:|:--:|:--:|:--:|
 | Motion Sensor Light | The motion sensor lights are attached to sense human movements using infrared light | $6.99 | <a href="https://www.amazon.com/Stemedu-HC-SR501-Infrared-Raspberry-ESP32-Cam/dp/B0897BMKR3/ref=sr_1_4?crid=1X7WLM791MEL9&keywords=motion+sensor+light+for+arduino&qid=1687461749&sprefix=mtion+sensor+light+for+arduino%2Caps%2C103&sr=8-4/"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| ELEGOO Breadboard Jumper Wire | The jumper wires are for connecting the motion sensor to the Arduino and to the LED light | $6.98 | <a href="https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78/ref=sr_1_5?crid=1A4S8NIO2N5W6&keywords=jumper+wires&qid=1687893112&sprefix=jumper+wires%2Caps%2C109&sr=8-5/"> Link </a> |
 |:--:|:--:|:--:|:--:|
 
 # Other Resources/Examples
