@@ -8,7 +8,7 @@ Hello, my name is Selina and for BlueStamp, my project is the tabletop robot. Th
 ![Headstone Image](IMG_8778.JPG)
   
 # Final Milestone
-For the final milestone, I reached the end of the finishing project. Instead of adding LED lights to the original Arduino. Instead, I added the lights to another Arduino that will function separately from the other one. The led lights will be activated by the motion sensor, which lights up the LED lights.
+For the final milestone, I reached the end of the finishing project. Instead of adding LED lights to the original Arduino. Instead, I added the lights to another Arduino that will function separately from the other one. The led lights will be activated by the motion sensor, which lights up the LED lights. I have learned a lot of engineering and problem-solving skills from unexpected troubles and errors. These complications take patience and hard work, most importantly, passion. 
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
@@ -23,7 +23,6 @@ For the second milestone, I started by downloading the files from the Elegoo web
 
 # First Milestone
 ![First Milestone Picture](IMG_20230617_002902.jpg)
-
 For my first milestone, I was supposed to code the Arduino before building the robot. However, the USB was not compatible with my computer as I did not have an adapter. Since coding was not a choice for me, I decided to build the robot before I receive the adapter. I opened my robot kit and looked at each individual part and its functions. After looking up their key functions and how they work, I assembled the robot to see all of the functions working together and the wiring going to their corresponding places. There are different colored wires and the order of how it is plugged in played an important role in the energy flow which for example, determined the direction the motor spun. When the wires are flipped, the motor spins in the opposite direction than before. Overall, the hardest part of the kit was not being confused about the orientation of the black and red wires, but building the kit was successful. For my next milestone, I want to start coding the Arduino and research some modifications I can work with on the robot car.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BDyy4Iachg8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -91,6 +90,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 |:--:|:--:|:--:|:--:|
 | ELEGOO Breadboard Jumper Wire | The jumper wires are for connecting the motion sensor to the Arduino and to the LED light | $6.98 | <a href="https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78/ref=sr_1_5?crid=1A4S8NIO2N5W6&keywords=jumper+wires&qid=1687893112&sprefix=jumper+wires%2Caps%2C109&sr=8-5/"> Link </a> |
 |:--:|:--:|:--:|:--:|
+| Popsicle Sticks | The popsicle sticks are used to make the stand of the camera | $4.99 | <a href="https://www.amazon.com/Sticks-Natural-Popsicle-Length-Crafts/dp/B07F367TCK/ref=sr_1_1?crid=1ZPUNDTPH489Z&keywords=popsicle+sticks+small&qid=1687898512&sprefix=popsicle+sticks+small%2Caps%2C106&sr=8-1/"> Link </a> |
 
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
