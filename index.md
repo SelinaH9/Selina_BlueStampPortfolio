@@ -8,6 +8,9 @@ Hello, my name is Selina and for BlueStamp, my project is the tabletop robot. Th
 ![Headstone Image](IMG_8778.JPG)
   
 # Final Milestone
+![IMG_20230630_153916](https://github.com/SelinaH9/Selina_BlueStampPortfolio/assets/136386424/b7fcd362-f8f6-4b6d-9da7-09f0113a6476)
+![IMG_20230630_143036 (2)](https://github.com/SelinaH9/Selina_BlueStampPortfolio/assets/136386424/6881dd50-d5f7-4b4b-a224-0fc5e388c712)
+
 For the final milestone, I reached the end of the finishing project. Instead of adding LED lights to the original Arduino, I added the lights to another Arduino that will function separately from the other one. The led lights will be activated by the motion sensor, which measures infrared light. As it senses motion, the Arduino will light up the LED lights. At last, I assembled the Arduino with the LED on the car and worked on the camera stand needed to prop the camera. However, after trying to find the best design, the camera stand did not work the way it was supposed to and did not look good. Instead, I used the short camera stand that came from the camera and proper it up using popsicle sticks. I have learned a lot of engineering and problem-solving skills from unexpected troubles and errors. These complications take patience and hard work, most importantly, passion. 
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
@@ -15,11 +18,9 @@ For the final milestone, I reached the end of the finishing project. Instead of 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Second Milestone
-(![IMG_20230630_143036 (2)](https://github.com/SelinaH9/Selina_BlueStampPortfolio/assets/136386424/c7d3c025-bdbe-4dce-8e2a-0638bbd51636)
-
 For the second milestone, I started by downloading the files from the Elegoo website. There were many challenges I faced, such as where certain files won't work. I solved this by getting help from other people and it worked out. After downloading the files for the Arduino, I wanted to start on my modifications, trying to add a motion sensor light and LED on the Arduino. However, the Arduino board on my robot was covered by the expansion board, which covered all of the pins that the LED could be inserted. This took a day to solve, so I took a different path to learn the Arduino. Learning about Arduino was interesting as if it was like reaching the brain of the software. After that, I continued working on the modifications but changed the original plan. For my third milestone, I hope to figure out a way to put the led lights on the robot, showing my understanding of circuits and Arduino.
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xb-yJik4BMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # First Milestone
