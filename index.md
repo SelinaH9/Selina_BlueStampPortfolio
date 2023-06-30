@@ -15,7 +15,7 @@ For the final milestone, I reached the end of the finishing project. Instead of 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Second Milestone
-
+![Second Milestone Image](IMG_20230630_143036 (1).jpg)
 For the second milestone, I started by downloading the files from the Elegoo website. There were many challenges I faced, such as where certain files won't work. I solved this by getting help from other people and it worked out. After downloading the files for the Arduino, I wanted to start on my modifications, trying to add a motion sensor light and LED on the Arduino. However, the Arduino board on my robot was covered by the expansion board, which covered all of the pins that the LED could be inserted. This took a day to solve, so I took a different path to learn the Arduino. Learning about Arduino was interesting as if it was like reaching the brain of the software. After that, I continued working on the modifications but changed the original plan. For my third milestone, I hope to figure out a way to put the led lights on the robot, showing my understanding of circuits and Arduino.
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
